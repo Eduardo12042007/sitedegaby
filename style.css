@@ -239,4 +239,6 @@ p {
     color: #ff69b4;
     font-family: 'Courier New', Courier, monospace;
   }
-  
+  p { 
+        text-align: jusfy;
+  }
